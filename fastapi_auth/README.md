@@ -1,4 +1,6 @@
-This is an example on how to create a basic API using FastAPI and integrate authenticate with JWT tokens.
+# FastAPI Auth example
+
+## This is an example on how to create a basic API using FastAPI and integrate authentication with JWT tokens.
 
 Before testing create a .env file to place you token in.
 
